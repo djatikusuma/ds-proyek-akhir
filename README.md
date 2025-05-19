@@ -148,7 +148,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-Atau dengan akses ke:
+Atau dengan akses ke: https://djatikusuma-ds-proyek-akhir.streamlit.app
 
 ## Conclusion
 
